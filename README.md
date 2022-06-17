@@ -9,4 +9,4 @@
 - ![ATMT-F](https://user-images.githubusercontent.com/34026599/174229410-5720a971-0732-4178-9fba-50bc01380de0.gif)
 
 - ATMT-R (random)
-- ![ATMT-F](https://user-images.githubusercontent.com/34026599/174229410-5720a971-0732-4178-9fba-50bc01380de0.gif)
+![ATMT-R](https://user-images.githubusercontent.com/34026599/174320730-1cf6c671-5641-4201-8a6a-aac91cf839bb.gif)
