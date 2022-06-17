@@ -1,7 +1,10 @@
-## Read Easy 👁‍🗨
+## ATMT in VR 🧠
 
-https://user-images.githubusercontent.com/34026599/167301771-bd13521b-2746-4fb8-b08c-0d1fb2bffa60.mp4
+- Advanced Trail Making Test implemented in c# (unity3D). Used as cognitive traning task as part of the Brain Activity Measuring in VR for Cognitive Rehabilitation Project. 
+- [desktop version](https://github.com/huxianyin/ATMT)
 
+
+![demo video](https://vimeo.com/709864462)
 
 
 ## Objective
